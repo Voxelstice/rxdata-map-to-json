@@ -23,3 +23,4 @@ Ok now you might be asking: *what is the point of this????*
 
 well i specifically made this so that you can just put rxdata map files in the ``map_files`` folder (assuming you have ran the script once) and then when you run the script it will give you the width, height, layer 1-3 tile data (2 bytes), and events that only contain the name, x coordinate, and y coordinate. Just open RPG Maker XP and look at the event lines there
 
+What do i do with the tile data? That's the neat part: Figure it out.
