@@ -1,0 +1,14 @@
+{
+  "name": "rxdata-map-to-json",
+  "version": "1.0.0",
+  "description": "This just converts rxdata map tiles to JSON with events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Voxelstice",
+  "license": "ISC",
+  "dependencies": {
+    "@hyrious/marshal": "^0.2.5"
+  }
+}
