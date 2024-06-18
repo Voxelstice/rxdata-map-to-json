@@ -1,3 +1,6 @@
+# THIS PROJECT WILL NOT BE UPDATED ANYMORE
+if you're still looking for something like this, use https://github.com/GamingLiamStudios/rxdataToJSON instead.
+
 # rxdata-map-to-json
 This just converts rxdata map tiles to JSON with events
 
